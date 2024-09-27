@@ -22,5 +22,9 @@ Bu proje, HTML, CSS ve Bootstrap  kullanılarak oluşturulmuş bir Emaartech Bui
 
 <br>
 
-![Emaartech](https://github.com/user-attachments/assets/bb07da89-129f-45a6-bd3a-774e0f919a64)
+![Emaartech-building](https://github.com/user-attachments/assets/02de3417-be08-4736-9aa2-7a3b7fef660e)
+
+
+
+Saygılarımla...
 
