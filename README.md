@@ -4,7 +4,7 @@
 
 <br>
 
-Bu proje, HTML, CSS ve Bootstrap  kullanılarak oluşturulmuş bir Emaartech Building arayüzüdür.
+Bu proje, HTML5, CSS3 ve Bootstrap  kullanılarak oluşturulmuş bir Emaartech Building arayüzüdür.
 
 <h2>Özellikler</h2>
 
@@ -12,7 +12,7 @@ Bu proje, HTML, CSS ve Bootstrap  kullanılarak oluşturulmuş bir Emaartech Bui
 
 – Tamamen responsive tasarım
 
-– HTML ve CSS ile sıfırdan oluşturulmuş bileşenler
+– HTML5 ve CSS3 ile sıfırdan oluşturulmuş bileşenler
 
 – Ekran boyutlarına duyarlı yerleşim
 
